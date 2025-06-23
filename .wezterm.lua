@@ -7,7 +7,7 @@ local config = wezterm.config_builder()
 -- This is where you actually apply your config choices
 
 -- and finally, return the configuration to wezterm
-config.color_scheme = "catppuccin-mocha"
+config.color_scheme = 'Oxocarbon Dark (Gogh)'
 config.default_domain = "WSL:Ubuntu-24.04"
 config.window_padding = {
 	left = 0,
